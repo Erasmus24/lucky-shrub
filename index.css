@@ -122,3 +122,15 @@ footer {
     color: white;
     padding: 15px;
 }
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px; /* Adjust spacing between text and image */
+}
+
+.footer-image {
+    max-width: 25px; /* Adjust size as needed */
+    height: auto;
+}
